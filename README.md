@@ -3,5 +3,5 @@ Here is the repo of where I learnt about the Jupiter Notebook and started appiyi
 
 <img src="https://www.tng-project.org/static/data/lab_logo_tng.png" alt="Jupiter Labs">
 
-training model means getting mathematical equation
+-->  Training model means getting mathematical equation.
 
